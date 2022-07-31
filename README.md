@@ -1,2 +1,2 @@
-# terraform-aws-pipeline
+# Terraform Aws Pipeline
 Terraform plan and apply Pipeline
